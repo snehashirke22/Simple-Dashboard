@@ -2,6 +2,7 @@
 
 A responsive and interactive dashboard built with React and Vite. This project provides a simple user interface with dynamic data display and interactive features.
 
+Demo :- https://simple-dashboard-wac3.onrender.com/
 ## Features
 - **Responsive Design**: The dashboard is fully responsive and works seamlessly across different screen sizes.
 - **Interactive UI**: Includes charts, data tables, and user-friendly navigation.
